@@ -1,7 +1,6 @@
 # Panel Data Analysis of Traffic Fatalities
 
-The purpose of this report is to apply and compare panel data regression techniques to modeling the importance of vario\
-us numerical and legal factors in driving fatality rates across all 50 states. The procedure will be as follows:
+The purpose of this report is to apply and compare panel data regression techniques to modeling the importance of various numerical and legal factors in driving fatality rates across all 50 states. The procedure will be as follows:
 
 1. We perform a very thorough exploratory panel data analysis in order to understand every possible caveat of the datas\
 et.
